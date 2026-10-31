@@ -1,0 +1,364 @@
+============================================================
+🏆 CHESS.COM RATINGS REPORT
+============================================================
+
+🏅 Rank: 1
+👤 Name: Anant Pal Singh
+🎓 Enrollment Number: 2503031460027
+📞 Phone number: 7383820965
+🆔 Username: AnantGT02
+⚡ Blitz Rating: 1748
+⏱️ Rapid Rating: 2071
+----------------------------------------
+🏅 Rank: 2
+👤 Name: Om Panchal
+🎓 Enrollment Number: 26UG032991
+📞 Phone number: 7622018982
+🆔 Username: ompanchal2008
+⚡ Blitz Rating: 1285
+⏱️ Rapid Rating: 1853
+----------------------------------------
+🏅 Rank: 3
+👤 Name: Harsh Shah
+🎓 Enrollment Number: 2403031050314
+📞 Phone number: 9586123123
+🆔 Username: SwaggyZilla
+⚡ Blitz Rating: Unrated
+⏱️ Rapid Rating: 1541
+----------------------------------------
+🏅 Rank: 4
+👤 Name: Shivam Prabhakar Sawant
+🎓 Enrollment Number: 2503031590335
+📞 Phone number: 7720046182
+🆔 Username: Shivam_Sawant_13
+⚡ Blitz Rating: 824
+⏱️ Rapid Rating: 1449
+----------------------------------------
+🏅 Rank: 5
+👤 Name: Praanshu Shah
+🎓 Enrollment Number: 2403031260084
+📞 Phone number: 9664966923
+🆔 Username: Praanshu_1
+⚡ Blitz Rating: 1246
+⏱️ Rapid Rating: 1400
+----------------------------------------
+🏅 Rank: 6
+👤 Name: Vivek Das
+🎓 Enrollment Number: 2503031260344
+📞 Phone number: 9662824091
+🆔 Username: VivekDas2345
+⚡ Blitz Rating: 1100
+⏱️ Rapid Rating: 1348
+----------------------------------------
+🏅 Rank: 7
+👤 Name: Krishnan Jethva
+🎓 Enrollment Number: 2503031580009
+📞 Phone number: 7862053969
+🆔 Username: heya_krishnan
+⚡ Blitz Rating: 920
+⏱️ Rapid Rating: 1266
+----------------------------------------
+🏅 Rank: 8
+👤 Name: Amit Mahale
+🎓 Enrollment Number: 2303031560050
+📞 Phone number: 8983397351
+🆔 Username: carpediem648
+⚡ Blitz Rating: 827
+⏱️ Rapid Rating: 1201
+----------------------------------------
+🏅 Rank: 9
+👤 Name: Alok Giri
+🎓 Enrollment Number: 2403031460568
+📞 Phone number: 6297658077
+🆔 Username: alokgiri08
+⚡ Blitz Rating: 882
+⏱️ Rapid Rating: 1161
+----------------------------------------
+🏅 Rank: 10
+👤 Name: Aditya Thapliyal
+🎓 Enrollment Number: 2503031460016
+📞 Phone number: 7973642446
+🆔 Username: GM_aditya_thapliyal
+⚡ Blitz Rating: 1130
+⏱️ Rapid Rating: 1006
+----------------------------------------
+🏅 Rank: 11
+👤 Name: Nakarani Vaidik Jayantbhai
+🎓 Enrollment Number: 2403031050407
+📞 Phone number: 9408860375
+🆔 Username: vaidik736
+⚡ Blitz Rating: 543
+⏱️ Rapid Rating: 966
+----------------------------------------
+🏅 Rank: 12
+👤 Name: Dholariya Meet
+🎓 Enrollment Number: 26UG036685
+📞 Phone number: 7862988215
+🆔 Username: Meet_Patel26
+⚡ Blitz Rating: Unrated
+⏱️ Rapid Rating: 951
+----------------------------------------
+🏅 Rank: 13
+👤 Name: DHAVESA SURAJPAL SINGH RUKMANSINGH
+🎓 Enrollment Number: 2503031250021
+📞 Phone number: 9727957233
+🆔 Username: sursa_05
+⚡ Blitz Rating: Unrated
+⏱️ Rapid Rating: 946
+----------------------------------------
+🏅 Rank: 14
+👤 Name: Govind Prasad
+🎓 Enrollment Number: 2303031240405
+📞 Phone number: 6009316381
+🆔 Username: msgovinddhoni
+⚡ Blitz Rating: Unrated
+⏱️ Rapid Rating: 921
+----------------------------------------
+🏅 Rank: 15
+👤 Name: Shruti
+🎓 Enrollment Number: 2503031540062
+📞 Phone number: 8295440179
+🆔 Username: shrutiiiih
+⚡ Blitz Rating: 792
+⏱️ Rapid Rating: 907
+----------------------------------------
+🏅 Rank: 16
+👤 Name: Ashutosh soni
+🎓 Enrollment Number: 2303031560006
+📞 Phone number: 8989432213
+🆔 Username: Uchiha_a_sasukee
+⚡ Blitz Rating: 757
+⏱️ Rapid Rating: 804
+----------------------------------------
+🏅 Rank: 17
+👤 Name: Priyanshu Joshi
+🎓 Enrollment Number: 2503031461117
+📞 Phone number: 8126765594
+🆔 Username: priyanshujoshi06
+⚡ Blitz Rating: 533
+⏱️ Rapid Rating: 775
+----------------------------------------
+🏅 Rank: 18
+👤 Name: Kevin Dhole
+🎓 Enrollment Number: 2503032340007
+📞 Phone number: 7069999806
+🆔 Username: kevindhole
+⚡ Blitz Rating: 424
+⏱️ Rapid Rating: 775
+----------------------------------------
+🏅 Rank: 19
+👤 Name: Deepanshu
+🎓 Enrollment Number: 26UG034035
+📞 Phone number: 9499124794
+🆔 Username: Deeanshu_yadav
+⚡ Blitz Rating: Unrated
+⏱️ Rapid Rating: 737
+----------------------------------------
+🏅 Rank: 20
+👤 Name: Piyush Prasad
+🎓 Enrollment Number: 2503031050269
+📞 Phone number: 9391448918
+🆔 Username: Zurich07
+⚡ Blitz Rating: 320
+⏱️ Rapid Rating: 722
+----------------------------------------
+🏅 Rank: 21
+👤 Name: Shreyas
+🎓 Enrollment Number: 2503031460821
+📞 Phone number: 6362252262
+🆔 Username: shreyas1357
+⚡ Blitz Rating: Unrated
+⏱️ Rapid Rating: 679
+----------------------------------------
+🏅 Rank: 22
+👤 Name: Swayam Joshi
+🎓 Enrollment Number: 26UG036363
+📞 Phone number: 9274269462
+🆔 Username: Snj_2
+⚡ Blitz Rating: Unrated
+⏱️ Rapid Rating: 671
+----------------------------------------
+🏅 Rank: 23
+👤 Name: RAJ Singh
+🎓 Enrollment Number: 2503032340040
+📞 Phone number: 7283825752
+🆔 Username: raz1141
+⚡ Blitz Rating: Unrated
+⏱️ Rapid Rating: 589
+----------------------------------------
+🏅 Rank: 24
+👤 Name: Suraj Chakraborty
+🎓 Enrollment Number: 2503031590450
+📞 Phone number: 8790826227
+🆔 Username: 1616SurajChakraborty00723
+⚡ Blitz Rating: 374
+⏱️ Rapid Rating: 522
+----------------------------------------
+🏅 Rank: 25
+👤 Name: Bhautik jentibhai pathar
+🎓 Enrollment Number: 2503031050388
+📞 Phone number: 8799079759
+🆔 Username: BhautikPathar
+⚡ Blitz Rating: Unrated
+⏱️ Rapid Rating: 521
+----------------------------------------
+🏅 Rank: 26
+👤 Name: Kathhe Koteshwar
+🎓 Enrollment Number: 2503031461671
+📞 Phone number: 9121230964
+🆔 Username: GordianKnotterr
+⚡ Blitz Rating: 239
+⏱️ Rapid Rating: 520
+----------------------------------------
+🏅 Rank: 27
+👤 Name: HETVI RANE
+🎓 Enrollment Number: 2503031050417
+📞 Phone number: 9429752425
+🆔 Username: hetvii1
+⚡ Blitz Rating: 359
+⏱️ Rapid Rating: 512
+----------------------------------------
+🏅 Rank: 28
+👤 Name: Aman Sapra
+🎓 Enrollment Number: 26UG032287
+📞 Phone number: 7056321097
+🆔 Username: Warrior_0_7
+⚡ Blitz Rating: Unrated
+⏱️ Rapid Rating: 504
+----------------------------------------
+🏅 Rank: 29
+👤 Name: Sarthak Lodhi
+🎓 Enrollment Number: 26UG034825
+📞 Phone number: 7060346734
+🆔 Username: Sarthaklodhi23
+⚡ Blitz Rating: 1062
+⏱️ Rapid Rating: 450
+----------------------------------------
+🏅 Rank: 30
+👤 Name: Akshay
+🎓 Enrollment Number: 2503031050386
+📞 Phone number: 7411477292
+🆔 Username: A-kshay07
+⚡ Blitz Rating: Unrated
+⏱️ Rapid Rating: 435
+----------------------------------------
+🏅 Rank: 31
+👤 Name: Vikas k Raichurkar
+🎓 Enrollment Number: 2503031050304
+📞 Phone number: 8050207374
+🆔 Username: Vikasraichurkar07
+⚡ Blitz Rating: Unrated
+⏱️ Rapid Rating: 393
+----------------------------------------
+🏅 Rank: 32
+👤 Name: Ashish ranjan
+🎓 Enrollment Number: 26UG035901
+📞 Phone number: 7856990493
+🆔 Username: Ashishhh_xsh
+⚡ Blitz Rating: Unrated
+⏱️ Rapid Rating: 385
+----------------------------------------
+🏅 Rank: 33
+👤 Name: KALYAMPUDI SANTOSH KUMAR
+🎓 Enrollment Number: 2503031050227
+📞 Phone number: 7847022645
+🆔 Username: SANTOSHKALYAMPUDI
+⚡ Blitz Rating: Unrated
+⏱️ Rapid Rating: 371
+----------------------------------------
+🏅 Rank: 34
+👤 Name: Parekh Maharshi Dharmeshbhai
+🎓 Enrollment Number: 26UG035776
+📞 Phone number: 7801993614
+🆔 Username: maharshiparekh
+⚡ Blitz Rating: Unrated
+⏱️ Rapid Rating: 338
+----------------------------------------
+🏅 Rank: 35
+👤 Name: Dibyanshu Bhardwaj
+🎓 Enrollment Number: 2503031460996
+📞 Phone number: 7905098851
+🆔 Username: thunderbird56
+⚡ Blitz Rating: 201
+⏱️ Rapid Rating: 307
+----------------------------------------
+🏅 Rank: 36
+👤 Name: Aditya Rathore
+🎓 Enrollment Number: 26UG034925
+📞 Phone number: 9261818621
+🆔 Username: codexceed
+⚡ Blitz Rating: 116
+⏱️ Rapid Rating: 297
+----------------------------------------
+🏅 Rank: 37
+👤 Name: Rahul Kumar
+🎓 Enrollment Number: 26UG036320
+📞 Phone number: 9460275648
+🆔 Username: iirahulsharma
+⚡ Blitz Rating: Unrated
+⏱️ Rapid Rating: 236
+----------------------------------------
+🏅 Rank: 38
+👤 Name: Abhinav Bharti
+🎓 Enrollment Number: 26UG034658
+📞 Phone number: 9799203630
+🆔 Username: OCTO_X
+⚡ Blitz Rating: Unrated
+⏱️ Rapid Rating: 228
+----------------------------------------
+🏅 Rank: 39
+👤 Name: Manthan Mehta
+🎓 Enrollment Number: 2503031590023
+📞 Phone number: 9461812742
+🆔 Username: N/A
+⚡ Blitz Rating: Unrated
+⏱️ Rapid Rating: Unrated
+----------------------------------------
+🏅 Rank: 40
+👤 Name: Vimarsh Nanavati
+🎓 Enrollment Number: 2403031060016
+📞 Phone number: 9979682234
+🆔 Username: N/A
+⚡ Blitz Rating: Unrated
+⏱️ Rapid Rating: Unrated
+----------------------------------------
+🏅 Rank: 41
+👤 Name: Sunkari Pavan
+🎓 Enrollment Number: 2403031461170
+📞 Phone number: 9032940482
+🆔 Username: naidus124
+⚡ Blitz Rating: Unrated
+⏱️ Rapid Rating: Unrated
+----------------------------------------
+🏅 Rank: 42
+👤 Name: ANKIT Singh
+🎓 Enrollment Number: 26UG031388
+📞 Phone number: 75043015579
+🆔 Username: N/A
+⚡ Blitz Rating: Unrated
+⏱️ Rapid Rating: Unrated
+----------------------------------------
+🏅 Rank: 43
+👤 Name: DHARMIK KIRTIKUMAR PRAJAPATI
+🎓 Enrollment Number: 26UG034365
+📞 Phone number: 8460922629
+🆔 Username: DHARMIK_2009P
+⚡ Blitz Rating: Unrated
+⏱️ Rapid Rating: Unrated
+----------------------------------------
+🏅 Rank: 44
+👤 Name: Swanit Bhagwat
+🎓 Enrollment Number: 2503031590451
+📞 Phone number: 8320118798
+🆔 Username: Swanit_Bhagwat
+⚡ Blitz Rating: Unrated
+⏱️ Rapid Rating: Unrated
+----------------------------------------
+🏅 Rank: 45
+👤 Name: Kaustubh Desale
+🎓 Enrollment Number: 2503031260072
+📞 Phone number: 8983597502
+🆔 Username: N/A
+⚡ Blitz Rating: Unrated
+⏱️ Rapid Rating: Unrated
+----------------------------------------
